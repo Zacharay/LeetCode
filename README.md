@@ -18,9 +18,9 @@
     </tr>
     <tr>
       <td>1761</td>
-      <td><a href="https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/" target="_blank">Two Sum</a></td>
+      <td><a href="https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/" target="_blank">Minimum Degree of a Connected Trio in a Graph</a></td>
       <td><a href="https://github.com/Zacharay/LeetCode/blob/main/1761-minimum-degree-of-a-connected-trio-in-a-graph/1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp">Solution<a/></td>
-      <td>HARD</td>
+      <td>Hard</td>
     </tr>
   </tbody>
 </table>
