@@ -58,6 +58,12 @@
       <td><a href="https://github.com/Zacharay/LeetCode/blob/main/Solutions/0695-max-area-of-island/0695-max-area-of-island.cpp">Solution<a/></td>
       <td>Medium</td>
     </tr>
+     <tr>
+      <td>743</td>
+      <td><a href="https://leetcode.com/problems/network-delay-time/">Network Delay Time</a></td>
+      <td><a href="https://github.com/Zacharay/LeetCode/blob/main/Solutions/0743-network-delay-time/0743-network-delay-time.cpp">Solution<a/></td>
+      <td>Medium</td>
+    </tr>
     <tr>
       <td>785</td>
       <td><a href="https://leetcode.com/problems/is-graph-bipartite/">Is Graph Bipartite?</a></td>
@@ -68,6 +74,18 @@
       <td>841</td>
       <td><a href="https://leetcode.com/problems/keys-and-rooms/">Keys and rooms</a></td>
       <td><a href="https://github.com/Zacharay/LeetCode/blob/main/Solutions/0841-keys-and-rooms/0841-keys-and-rooms.cpp">Solution<a/></td>
+      <td>Medium</td>
+    </tr>
+     <tr>
+      <td>994</td>
+      <td><a href="https://leetcode.com/problems/rotting-oranges/">Rotting Oranges</a></td>
+      <td><a href="https://github.com/Zacharay/LeetCode/blob/main/Solutions/0994-rotting-oranges/0994-rotting-oranges.cpp">Solution<a/></td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>1334</td>
+      <td><a href="https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/">Find the City With the Smallest Number of Neighbors at a Threshold Distance</a></td>
+      <td><a href="https://github.com/Zacharay/LeetCode/blob/main/Solutions/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.cpp">Solution<a/></td>
       <td>Medium</td>
     </tr>
     <tr>
