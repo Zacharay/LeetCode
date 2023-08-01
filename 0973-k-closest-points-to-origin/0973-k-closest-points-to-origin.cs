@@ -1,12 +1,14 @@
 public class Solution {
-    public struct Vector2
+   public struct Vector2
 	{
 		public int x;
 		public int y;
 	}
 	public int[][] KClosest(int[][] points, int k)
 	{
-		List<int[]> arrList = new List<int[]>();
+		int[][] arr = new int[k][];
+
+
 
 		PriorityQueue<Vector2, double> pq = new PriorityQueue<Vector2, double>();
 
@@ -19,9 +21,9 @@ public class Solution {
 		for(int i=0;i<k;i++)
 		{
 			Vector2 point = pq.Dequeue();
-			arrList.Add(new int[] { point.x, point.y });
+			arr[i] = new int[] { point.x, point.y };
 
 		}
-		return arrList.ToArray();
+		return arr;
 	}
 }
